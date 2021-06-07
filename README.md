@@ -1,5 +1,5 @@
 # ShorteningString
-This is an from scratch program for the implementation of shortening of a string<br>
+This is a program which is written from scratch for the implementation of shortening of a string<br>
 The original is less than 10 characters and also lower alphabetic<br>
 Shortened string is alphanumeric i.e characters can be a-z,A-Z,0-9<br>
 The program is written in javascript,which can shorten a string and also the shortened string can be reversed to original string<br>
