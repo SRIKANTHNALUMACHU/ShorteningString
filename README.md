@@ -3,7 +3,7 @@ This is a program which is written from scratch for the implementation of shorte
 The original is less than 10 characters and also lower alphabetic<br>
 Shortened string is alphanumeric i.e characters can be a-z,A-Z,0-9<br>
 The program is written in javascript,which can shorten a string and also the shortened string can be reversed to original string<br>
-#Procedure Followed:
+#Procedure Followed:<br>
 When we generally convert a binary number(which has only two digits 0 or 1) to decimal number(which has digits 0-9)
 as we're converting a number from a lowerbase (with less number of possiblity of representation) to higher base number(with higher number of possibilities of representation)
 so when we're doing this opertion there is a possibility of reduction of length of string(the output string is different every different input)<br>
